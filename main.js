@@ -10,12 +10,12 @@ this.descripcion = descripcion;
 
 
 const productos= []
-contenedor.push(new Producto ("yerba", 25, "yerba sin palo"));
-contenedor.push(new Producto ("fideos", 25, "yerba sin palo"));
-contenedor.push(new Producto ("agua", 25, "yerba sin palo"));
-contenedor.push(new Producto ("coca", 25, "yerba sin palo"));
-contenedor.push(new Producto ("queso", 25, "yerba sin palo"));
-contenedor.push(new Producto ("papas", 25, "yerba sin palo"));
+productos.push(new Producto ("fideos", 25, "yerba sin palo"));
+productos.push(new Producto ("agua", 25, "yerba sin palo"));
+productos.push(new Producto ("queso", 25, "yerba sin palo"));
+productos.push(new Producto ("coca", 25, "yerba sin palo"));
+productos.push(new Producto ("papas", 25, "yerba sin palo"));
+productos.push(new Producto ("yerba", 25, "yerba sin palo"));
 
 
 
